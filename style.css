@@ -142,3 +142,7 @@ p {
 .btn:hover {
   background: #4b2e83;
 }
+
+body {
+  padding-bottom: 80px;
+}
